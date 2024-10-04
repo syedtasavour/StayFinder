@@ -56,7 +56,7 @@ Follow these steps to set up and run StayFinder locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/stayfinder.git
+   git clone https://github.com/syedtasavour/StayFinder.git
    cd stayfinder
    ```
 
@@ -75,11 +75,11 @@ Follow these steps to set up and run StayFinder locally:
 
 4. **Run the Application**:
    ```bash
-   npm start
+   nodemon start
    ```
 
 5. **Access the Application**:
-   Open your web browser and navigate to `http://localhost:3000` to explore StayFinder.
+   Open your web browser and navigate to `http://localhost:8080` to explore StayFinder.
 
 ## Project Structure
 
