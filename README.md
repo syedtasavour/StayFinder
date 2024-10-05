@@ -2,6 +2,12 @@
 
 Welcome to **StayFinder**! This innovative web application connects travelers with hosts offering unique accommodations, providing a seamless experience for booking stays around the world. Designed with both usability and aesthetics in mind, StayFinder is your go-to platform for finding the perfect place to stay, no matter your travel needs.
 
+**Explore the Live Version of StayFinder**  
+
+Experience the full functionality of StayFinder, our comprehensive accommodation booking platform, in real-time.  
+Check it out here: [StayFinder Live](https://stayfinder-4vaf.onrender.com/)
+
+
 ## Table of Contents
 
 - [Features](#features)
