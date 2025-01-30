@@ -1,7 +1,5 @@
 if (process.env.NODE_ENV != "production") {
-  require("dotenv").config();
-  console.log(process.env.CLOUD_NAME);
-};
+  require("dotenv").config();};
 
 
 const express = require("express");
