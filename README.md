@@ -18,6 +18,9 @@ Check it out here: [StayFinder Live](https://stayfinder-4vaf.onrender.com/)
 - [Contributing](#contributing)
 - [License](#license)
 
+## 🌟 Show Your Support
+If you found this project helpful, give it a ⭐️!
+
 ## Features
 
 - **User Authentication**: Secure sign-up and login functionality for users to create personalized accounts.
@@ -113,6 +116,17 @@ Once you have the application running, you can:
 - **View Property Details**: Click on a listing to see detailed information, including photos, amenities, and user reviews.
 - **Leave Reviews**: After your stay, share your experience by leaving a review on the property.
 
+  ## 👤 Author
+**Syed Tasavour**  
+- GitHub: [@syedtasavour](https://github.com/syedtasavour)
+- Portfolio: [syedtasavour.me](https://syedtasavour.me)
+
+
+## 📞 Contact
+For any queries or support:
+- Email: `help@syedtasavour.me`
+- GitHub Issues: [Create an issue](https://github.com/syedtasavour/StayFinder/issues)
+
 ## Contributing
 
 Contributions are highly encouraged! If you have ideas for improvements or new features, please fork the repository and submit a pull request. Ensure your code adheres to the project’s style guidelines and includes appropriate tests.
@@ -120,3 +134,7 @@ Contributions are highly encouraged! If you have ideas for improvements or new f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+<div align="center">
+  <sub>Built with passion (and a lot of coffee) by Syed Tasavour.</sub>
+</div>
